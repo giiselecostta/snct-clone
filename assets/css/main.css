@@ -167,7 +167,7 @@ body {
 
 .convidados__card img:hover {
   /* width: 110px; */
-  transform: scale(1.1);
+  transform: scale(1.2);
 }
 
 .convidados__card{
